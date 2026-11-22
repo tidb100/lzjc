@@ -1,4 +1,4 @@
-# quantum-bagholder
+# LZJC
 量子韭菜：没打开账户前，既赚了也亏了
 
 [浏览每日中美市场投资参考报告](https://tidb100.github.io/lzjc/)
